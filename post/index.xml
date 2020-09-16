@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Fatema Arsiwala</title>
+    <link>https://fatema-arsi.github.io/Project_Portfolio/post/</link>
+    <description>Recent content in Projects on Fatema Arsiwala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://fatema-arsi.github.io/Project_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Visualizing Forms data with Power BI</title>
+      <link>https://fatema-arsi.github.io/Project_Portfolio/post/project-1/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+
+      <guid>https://fatema-arsi.github.io/Project_Portfolio/post/project-1/</guid>
+      <description>Gathered the sleep data by building the survey forms in Microsoft Forms.  Click to go to form.
+ Set up a blank trigger on Microsoft Flow to get the responses from the surveyed forms and pushed them into a Power BI streaming dataset. Built out a dashboard page with the summary info in it like number of responses, participants &amp;rsquo;s quality of sleep, average hours of sleep taken by them, etc.</description>
+    </item>
+
+    <item>
+      <title>Project II: Sentiment Analysis on App reviews</title>
+      <link>https://fatema-arsi.github.io/Project_Portfolio/post/project-2/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+
+      <guid>https://fatema-arsi.github.io/Project_Portfolio/post/project-2/</guid>
+      <description>Created a model to analyse the sentiments of the reviews which are provided by the customers on google play store on apps such as Dreem, Ameli, Arogya setu, etc. Pre processed data applying tokenization and stop word from nltk to make the reviews in the formate nltl expects. Optimised NaiveBayesClassifier from Natural Language ToolKit to reach the best model.    Link to this GitHub Repository</description>
+    </item>
+
+    <item>
+      <title>Project III: EDA on Scrapped Data </title>
+      <link>https://fatema-arsi.github.io/Project_Portfolio/post/project-3/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+
+      <guid>https://fatema-arsi.github.io/Project_Portfolio/post/project-3/</guid>
+      <description>Scrapped app description of Dreem, Headspace, sleep cycle, etc. using google-play-scrapper. Delivered insights to understand customer demands better and thus help developers to popularize. To clarifty, the &amp;lsquo;popular&amp;rsquo; in this project means a high number of installation. Performed Exploratory Data Analysis using matplotlib, seaborn and plotly.    Link to GitHub Repository</description>
+    </item>
+
+    <item>
+      <title>Project IV: Comcast Telecom Consumer Complaint </title>
+      <link>https://fatema-arsi.github.io/Project_Portfolio/post/project-4/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+
+      <guid>https://fatema-arsi.github.io/Project_Portfolio/post/project-4/</guid>
+      <description>Provided the trend chart for the number of complaints at monthly and daily granularity levels. Created a table with the frequency of complaint types. Create a new categorical variable with value as Open and Closed. Open &amp;amp; Pending is to be categorized as Open and Closed &amp;amp; Solved is to be categorized as Closed. Provided state wise status of complaints in a stacked bar chart. Use the categorized variable value as Open and Closed where Open &amp;amp; Pending is to be categorized as Open and Closed &amp;amp; Solved is to be categorized as Closed.</description>
+    </item>
+
+    <item>
+      <title>Project V: Comparative study of world indicators</title>
+      <link>https://fatema-arsi.github.io/Project_Portfolio/post/project-5/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+
+      <guid>https://fatema-arsi.github.io/Project_Portfolio/post/project-5/</guid>
+      <description>Created a dashboard to do a comparative study on various parameters of different countries using the sample insurance dataset and world development indicators dataset.    Link to Tableau Public</description>
+    </item>
+
+  </channel>
+</rss>
