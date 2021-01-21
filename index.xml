@@ -8,49 +8,50 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 12 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://fatema-arsi.github.io/Project_Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project I: Visualizing Forms data with Power BI</title>
+      <title>Project I: Correlation Analysis of Stocks</title>
       <link>https://fatema-arsi.github.io/Project_Portfolio/post/project-1/</link>
-      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
 
       <guid>https://fatema-arsi.github.io/Project_Portfolio/post/project-1/</guid>
-      <description>Gathered the sleep data by building the survey forms in Microsoft Forms.  Click to go to form.
- Set up a blank trigger on Microsoft Flow to get the responses from the surveyed forms and pushed them into a Power BI streaming dataset. Built out a dashboard page with the summary info in it like number of responses, participants &amp;rsquo;s quality of sleep, average hours of sleep taken by them, etc.</description>
+      <description>With an increase in the penetration of analytics into numerous facest  of our lives, finance is definetely one of the earliest to catch onto this trend. In this project, I have attempted to showcase how data analytics and visualisation techniques can be incorporated in the world of finance.I have used 10 years of historical data from Jan 2011 to Jan 2021 of  Amazon,Google and Tesla stocks from yahoo finance using webreader.Link to this GitHub Repository.</description>
     </item>
 
     <item>
-      <title>Project II: Sentiment Analysis on App reviews</title>
+      <title>Project II: Finance-Portfolio-Optimization</title>
       <link>https://fatema-arsi.github.io/Project_Portfolio/post/project-2/</link>
-      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed,20 Jan 2021 00:00:00 +0000</pubDate>
 
       <guid>https://fatema-arsi.github.io/Project_Portfolio/post/project-2/</guid>
-      <description>Created a model to analyse the sentiments of the reviews which are provided by the customers on google play store on apps such as Dreem, Ameli, Arogya setu, etc. Pre processed data applying tokenization and stop word from nltk to make the reviews in the formate nltl expects. Optimised NaiveBayesClassifier from Natural Language ToolKit to reach the best model.    Link to this GitHub Repository</description>
+      <description>Portfolio optimization is the process of selecting the best portfolio (asset distribution),out of the set of all portfolios being considered, according to some objective. The objective typically maximizes factors such as expected return, and minimizes costs like financial risk.
+-Wikipedia. In this project, I have scrapped the stock data using yfinance package in Python. And I have tried to optimize the portfolio for the maximum return with the least amount of risk with the help of a package called pyportfolioopt created by Robert Ansrew Martin. Link to this GitHub Repository. </description>
     </item>
 
     <item>
-      <title>Project III: EDA on Scrapped Data </title>
+      <title>Project III: Sentiment Analysis of Stocks from Financial News </title>
       <link>https://fatema-arsi.github.io/Project_Portfolio/post/project-3/</link>
-      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
 
       <guid>https://fatema-arsi.github.io/Project_Portfolio/post/project-3/</guid>
-      <description>Scrapped app description of Dreem, Headspace, sleep cycle, etc. using google-play-scrapper. Delivered insights to understand customer demands better and thus help developers to popularize. To clarifty, the &amp;lsquo;popular&amp;rsquo; in this project means a high number of installation. Performed Exploratory Data Analysis using matplotlib, seaborn and plotly.    Link to GitHub Repository</description>
+      <description>Instead of having to go through each headline for every stock you are interested in, we can use Python to parse this website data and perform sentiment analysis (i.e. assign a sentiment score) for each headline before averaging it over a period of time. The idea is that the averaged value may give valuable information for the overall sentiment of a stock for a given day.I have used several packages such as ‘BeautifulSoup’ to parse data from FinViz while ‘requests’  to get data and ‘nltk.sentiment.vader’ library  to perform sentiment analysis on the news headlines. Link to GitHub Repository. </description>
     </item>
 
     <item>
-      <title>Project IV: Comcast Telecom Consumer Complaint </title>
+      <title>Project IV:  EDA on Scrapped Data </title>
       <link>https://fatema-arsi.github.io/Project_Portfolio/post/project-4/</link>
-      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Sep 2020 00:00:00 +0000</pubDate>
 
       <guid>https://fatema-arsi.github.io/Project_Portfolio/post/project-4/</guid>
-      <description>Provided the trend chart for the number of complaints at monthly and daily granularity levels. Created a table with the frequency of complaint types. Create a new categorical variable with value as Open and Closed. Open &amp;amp; Pending is to be categorized as Open and Closed &amp;amp; Solved is to be categorized as Closed. Provided state wise status of complaints in a stacked bar chart. Use the categorized variable value as Open and Closed where Open &amp;amp; Pending is to be categorized as Open and Closed &amp;amp; Solved is to be categorized as Closed.</description>
+      <description>Scrapped app description of Dreem, Headspace, sleep cycle, etc. using google-play-scrapper. Delivered insights to understand customer demands better and thus help developers to popularize. To clarifty, the &amp;lsquo;popular&amp;rsquo; in this project means a high number of installation. Performed Exploratory Data Analysis using matplotlib, seaborn and plotly.    Link to GitHub Repository.</description>
     </item>
 
     <item>
-      <title>Project V: Comparative study of world indicators</title>
+      <title>Project V: Visualization of MSForms data with Power BI</title>
       <link>https://fatema-arsi.github.io/Project_Portfolio/post/project-5/</link>
-      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
 
       <guid>https://fatema-arsi.github.io/Project_Portfolio/post/project-5/</guid>
-      <description>Created a dashboard to do a comparative study on various parameters of different countries using the sample insurance dataset and world development indicators dataset.    Link to Tableau Public</description>
+      <description>Gathered the sleep data by building the survey forms in Microsoft Forms.  Click to go to form.
+ Set up a blank trigger on Microsoft Flow to get the responses from the surveyed forms and pushed them into a Power BI streaming dataset. Built out a dashboard page with the summary info in it like number of responses, participants &amp;rsquo;s quality of sleep, average hours of sleep taken by them, etc. </description>
     </item>
 
     <item>
