@@ -29,7 +29,7 @@
     <item>
       <title>Project III: Sentiment Analysis of Stocks from Financial News </title>
       <link>https://fatema-arsi.github.io/Project_Portfolio/post/project-3/</link>
-      <pubDate>Tue, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
 
       <guid>https://fatema-arsi.github.io/Project_Portfolio/post/project-3/</guid>
       <description>Instead of having to go through each headline for every stock you are interested in, we can use Python to parse this website data and perform sentiment analysis (i.e. assign a sentiment score) for each headline before averaging it over a period of time. The idea is that the averaged value may give valuable information for the overall sentiment of a stock for a given day.I have used several packages such as ‘BeautifulSoup’ to parse data from FinViz while ‘requests’  to get data and ‘nltk.sentiment.vader’ library  to perform sentiment analysis on the news headlines. Link to GitHub Repository</description>
@@ -38,7 +38,7 @@
     <item>
       <title>Project IV: EDA on Scrapped Data</title>
       <link>https://fatema-arsi.github.io/Project_Portfolio/post/project-4/</link>
-      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Sep 2020 00:00:00 +0000</pubDate>
 
       <guid>https://fatema-arsi.github.io/Project_Portfolio/post/project-4/</guid>
       <description>Scrapped app description of Dreem, Headspace, sleep cycle, etc. using google-play-scrapper. Delivered insights to understand customer demands better and thus help developers to popularize. To clarifty, the &amp;lsquo;popular&amp;rsquo; in this project means a high number of installation. Performed Exploratory Data Analysis using matplotlib, seaborn and plotly.    Link to GitHub Repository.</description>
@@ -47,7 +47,7 @@
     <item>
       <title>Project V: Visualization of MSForms data with Power BI</title>
       <link>https://fatema-arsi.github.io/Project_Portfolio/post/project-5/</link>
-      <pubDate>Tue, 13 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
 
       <guid>https://fatema-arsi.github.io/Project_Portfolio/post/project-5/</guid>
       <description>Gathered the sleep data by building the survey forms in Microsoft Forms.  Click to go to form.
