@@ -52,7 +52,7 @@
       <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://fatema-arsi.github.io/Project_Portfolio/post/project-6/</guid>
-      <description>Created a model to analyse the sentiments of the reviews which are provided by the customers on google play store on apps such as Dreem, Ameli, Arogya setu, etc. Pre processed data applying tokenization and stop word from nltk to make the reviews in the formate nltl expects. Optimised NaiveBayesClassifier from Natural Language ToolKit to reach the best model.    Link to this GitHub Repository</description>
+      <description>Created a model to analyse the sentiments of the reviews which are provided by the customers on google play store on apps such as Helix Jump,Crowd City, etc. Pre processed data applying tokenization and stop word from nltk to make the reviews in the formate nltl expects. Optimised NaiveBayesClassifier from Natural Language ToolKit to reach the best model.    Link to this GitHub Repository</description>
     </item>
     
     <item>
