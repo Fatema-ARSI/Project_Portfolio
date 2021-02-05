@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fatema ARSIWALA on Mon Portfolio</title>
+    <link>https://fatema-arsi.github.io/Project_Portfolio/fr/</link>
+    <description>Recent content in Fatema ARSIWALA on Mon Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fatema-arsi.github.io/Project_Portfolio/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projet: Visualisation des données d&#39;enquête avec Power BI </title>
+      <link>https://fatema-arsi.github.io/Project_Portfolio/fr/post/project-5/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatema-arsi.github.io/Project_Portfolio/fr/post/project-5/</guid>
+      <description>Collecte des données d&amp;rsquo;enquête en temps réel en créant le formulaire Game Survey dans Microsoft Forms.  Cliquer ici pour voir le formulaire d&amp;rsquo;enqête
+  Configurer un &amp;lsquo;flux de cloud instantané&amp;rsquo; sur Microsoft Flow pour obtenir les réponses de l&amp;rsquo;enquête et les ajouter dans la base de donnée de streaming Power BI.
+  Création d&amp;rsquo;un tableau de bord contenant les informations récapitulatives telles que le nombre de réponses, l&amp;rsquo;âge des participants, les préférences de genre, etc.</description>
+    </item>
+    
+    <item>
+      <title>Projet: Analyse du sentiment des marchés financiers à partir des titres de la presse financière </title>
+      <link>https://fatema-arsi.github.io/Project_Portfolio/fr/post/project-4/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatema-arsi.github.io/Project_Portfolio/fr/post/project-4/</guid>
+      <description>Au lieu de parcourir chaque titre de journal pour chaque action qui vous intéresse, nous pouvons utiliser Python pour analyser les données de ce site de presse financière et effectuer une analyse des sentiments (c&amp;rsquo;est-à-dire attribuer un score de sentiment) pour chaque titre avant de faire la moyenne sur une période de temps donnée. L&amp;rsquo;idée est que la valeur moyenne peut donner des informations précieuses sur le sentiment général ou un consensus autour d&amp;rsquo;une action pour un jour donné.</description>
+    </item>
+    
+    <item>
+      <title>Projet: Optimisation d&#39;un potefeuille financier</title>
+      <link>https://fatema-arsi.github.io/Project_Portfolio/fr/post/project-2/</link>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatema-arsi.github.io/Project_Portfolio/fr/post/project-2/</guid>
+      <description>L&amp;rsquo;optimisation d&amp;rsquo;un portefeuille financier est le processus de sélection du meilleur portefeuille (répartition des actifs), parmi l&amp;rsquo;ensemble de tous les portefeuilles considérés, selon un objectif definit. Cela afin de maximiser les facteurs tels que le rendement attendu et minimiser risque financier. -Wikipédia
+  Dans ce projet, j&amp;rsquo;ai mis extraits les doonnées boursières à l&amp;rsquo;aide du package yfinance en Python ensuite, j&amp;rsquo;ai essayé d&amp;rsquo;optimiser le portefeuille pour avoir un retour sur investissement maximum avec le moins de risque à l&amp;rsquo;aide d&amp;rsquo;un package appelé pyportfolioopt créé par Robert Ansrew Martin.</description>
+    </item>
+    
+    <item>
+      <title>Projet: Analyse correlative des marchés financiers</title>
+      <link>https://fatema-arsi.github.io/Project_Portfolio/fr/post/project-1/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatema-arsi.github.io/Project_Portfolio/fr/post/project-1/</guid>
+      <description>Avec une augmentation de la pénétration de l&amp;rsquo;analyse de données dans de nombreuses facettes de nos vies, la finance est certainement l&amp;rsquo;une des premières à saisir cette tendance. Dans ce projet, j&amp;rsquo;ai tenté de montrer comment les techniques d&amp;rsquo;analyse et de visualisation des données peuvent être incorporées dans le monde de la finance.
+  J&amp;rsquo;ai utilisé 10 ans de données historiques de janvier 2011 à janvier 2021 des actions Amazon, Google et Tesla de Yahoo Finance en utilisant webreader.</description>
+    </item>
+    
+    <item>
+      <title>Project: Sentiment Analysis on app reviews</title>
+      <link>https://fatema-arsi.github.io/Project_Portfolio/fr/post/project-6/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatema-arsi.github.io/Project_Portfolio/fr/post/project-6/</guid>
+      <description>Création d&amp;rsquo;un modèle pour analyser les sentiments des avis fournis par les clients sur Google Play Store sur des applications telles que Dreem, Ameli, Arogya setu, etc. Pré-traitées les données en appliquant la &amp;lsquo;tokenisation&amp;rsquo; et &amp;lsquo;stop word&amp;rsquo; a partir nltk pour effectuer les critiques attendu dans le format nltl. Optimisé NaiveBayesClassifier de Natural Language ToolKit pour atteindre la meilleure modélisation.    Lien vers ce référentiel GitHub</description>
+    </item>
+    
+    <item>
+      <title>Projet: Exploratory Data Analysis   sur les datas extraites de google plasytore</title>
+      <link>https://fatema-arsi.github.io/Project_Portfolio/fr/post/project-3/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatema-arsi.github.io/Project_Portfolio/fr/post/project-3/</guid>
+      <description>Description de l&amp;rsquo;application abandonnée de Helix Jump,Crowd City, etc. à l&amp;rsquo;aide de google-play-scrapper.Fourni des informations pour mieux comprendre les demandes des clients et ainsi aider les développeurs à vulgariser.
+  Pour clarifier, le «populaire» dans ce projet signifie un nombre élevé d’installations.
+  Analyse des données exploratoires effectuée à l’aide de matplotlib, seaborn et plotly.
+    Lien vers ce référentiel GitHub</description>
+    </item>
+    
+    <item>
+      <title>Project: Analyse comparative des indicateurs mondiaux </title>
+      <link>https://fatema-arsi.github.io/Project_Portfolio/fr/post/project-8/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatema-arsi.github.io/Project_Portfolio/fr/post/project-8/</guid>
+      <description>Création d&amp;rsquo;un tableau de bord pour réaliser une étude comparative sur divers paramètres de différents pays à l&amp;rsquo;aide d&amp;rsquo;un échantillon de données d&amp;rsquo;assurance et de l&amp;rsquo;ensemble de données des indicateurs de développement dans le monde.    Lien vers le rapport Tableau</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://fatema-arsi.github.io/Project_Portfolio/fr/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatema-arsi.github.io/Project_Portfolio/fr/about/</guid>
+      <description>Après avoir obtenu un bachelor en machés financiers de l&amp;rsquo;université de Mumbai j&amp;rsquo;ai pousuivi une formation pour obtenir une certification de data analyst. Autodidacte, je suis en recherche permanente de de nouveaux challenges et pour ce faire j&amp;rsquo;ai effectué plusieurs projets pour améliorer mes compétences en tant que data analyst.Je suis tout particulièrement attiré par les projets en lien avec l&amp;rsquo;analyse du &amp;lsquo;customer experience&amp;rsquo;, parce que je pense la clé de la réussite d&amp;rsquo;une entreprise est la stisfaction du client.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://fatema-arsi.github.io/Project_Portfolio/fr/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatema-arsi.github.io/Project_Portfolio/fr/contact/</guid>
+      <description>Vous pouvez me suivre sur ces plateformes :
+   Platform URL     Linkedin: https://www.linkedin.com/in/fatema-arsiwala-aa1a8718a/   GitHub: https://github.com/Fatema-ARSI   Kaggle: https://www.kaggle.com/fatemaarsi   Email: fatema.arsi173@gmail.com    </description>
+    </item>
+    
+    <item>
+      <title>Project: Comcast Telecom  Complaint</title>
+      <link>https://fatema-arsi.github.io/Project_Portfolio/fr/post/project-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatema-arsi.github.io/Project_Portfolio/fr/post/project-7/</guid>
+      <description>Fournit un diagramme de tendance pour le nombre de plaintes aux niveaux de granularité mensuels et quotidiens.
+ Création d&amp;rsquo;un tableau avec la fréquence des types de plaintes. Création une nouvelle variable catégorielle avec la valeur ouverte et fermée. Ouvert et en attente doit être catégorisé comme ouvert et fermé et résolu doit être classé comme fermé. État des plaintes fourni dans un graphique à barres empilées.  Informations sur:</description>
+    </item>
+    
+  </channel>
+</rss>
