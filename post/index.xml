@@ -76,7 +76,7 @@
     <item>
       <title>Project: Comcast Telecom  Complaint</title>
       <link>https://fatema-arsi.github.io/Project_Portfolio/post/project-7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 July 2020 00:00:00 +0000</pubDate>
       
       <guid>https://fatema-arsi.github.io/Project_Portfolio/post/project-7/</guid>
       <description>Provided the trend chart for the number of complaints at monthly and daily granularity levels. Created a table with the frequency of complaint types. Create a new categorical variable with value as Open and Closed. Open &amp;amp; Pending is to be categorized as Open and Closed &amp;amp; Solved is to be categorized as Closed. Provided state wise status of complaints in a stacked bar chart. Use the categorized variable value as Open and Closed where Open &amp;amp; Pending is to be categorized as Open and Closed &amp;amp; Solved is to be categorized as Closed.</description>
