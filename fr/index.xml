@@ -34,7 +34,7 @@
 
       <guid>https://fatema-arsi.github.io/Project_Portfolio/fr/post/project-2/</guid>
       <description>L&amp;rsquo;optimisation d&amp;rsquo;un portefeuille financier est le processus de sélection du meilleur portefeuille (répartition des actifs), parmi l&amp;rsquo;ensemble de tous les portefeuilles considérés, selon un objectif definit. Cela afin de maximiser les facteurs tels que le rendement attendu et minimiser risque financier. -Wikipédia
-  Dans ce projet, j&amp;rsquo;ai mis extraits les doonnées boursières à l&amp;rsquo;aide du package yfinance en Python ensuite, j&amp;rsquo;ai essayé d&amp;rsquo;optimiser le portefeuille pour avoir un retour sur investissement maximum avec le moins de risque à l&amp;rsquo;aide d&amp;rsquo;un package appelé pyportfolioopt créé par Robert Ansrew Martin.</description>
+  Dans ce projet, j&amp;rsquo;ai extrait les doonnées boursières à l&amp;rsquo;aide du package yfinance en Python ensuite, j&amp;rsquo;ai essayé d&amp;rsquo;optimiser le portefeuille pour avoir un retour sur investissement maximum avec le moins de risque à l&amp;rsquo;aide d&amp;rsquo;un package appelé pyportfolioopt créé par Robert Ansrew Martin.</description>
     </item>
 
     <item>
